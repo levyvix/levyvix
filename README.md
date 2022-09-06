@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark**
 
-- 👯 I’m looking to collaborate on **data_science, data_engeneering, data_analysis**
+- 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning and Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [githuh.com/levyvix](githuh.com/levyvix)
 
