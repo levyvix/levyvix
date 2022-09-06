@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **LABTDF**
 
-- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark**
+- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, AWS**
 
 - 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning and Business Intelligence**
 
