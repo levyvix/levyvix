@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **levy.vix@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://www.codewars.com/users/levyvix" target="blank"><img align="center" src="https://www.codewars.com/users/levyvix/badges/large" alt="levyvix" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
