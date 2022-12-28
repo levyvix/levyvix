@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning and Business Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/levyvix](githuh.com/levyvix)
+- 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
 
-- 📝 I regularly write articles on [https://medium.com/@levyvix](medium.com/@levyvix)
+- 📝 I regularly write articles on [Medium (levyvix))](https://medium.com/@levyvix)
 
 - 💬 Ask me about **pandas, PyTorch**
 
