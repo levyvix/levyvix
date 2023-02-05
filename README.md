@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levyvix" alt="levyvix" /></a> </p>
 
-- 🔭 I’m currently working on **LABTDF**
+- 🔭 I’m currently working on **Data Science, Data Engineering, Data Analytics**
 
-- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, AWS**
+- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, Cloud**
 
 - 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning and Business Intelligence**
 
