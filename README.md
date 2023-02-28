@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **Data Science, Data Engineering, Data Analytics**
 
-- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, Cloud**
+- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, Cloud, Prefect, Airflow**
 
-- 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning and Business Intelligence**
+- 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning, Business Intelligence, Data Engineering**
 
 - 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
 
 - 📝 I regularly write articles on [Medium (levyvix))](https://medium.com/@levyvix)
 
-- 💬 Ask me about **pandas, PyTorch**
+- 💬 Ask me about **pandas, PyTorch, scikit-learn, Prefect**
 
 - 📫 How to reach me **levy.vix@gmail.com**
 
