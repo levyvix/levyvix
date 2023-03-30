@@ -1,12 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm Levy Nunes</h1>
-<h3 align="center">A passionate Junior Data Scientist from Espírito Santo - Brazil</h3>
+<h3 align="center">A passionate Data Scientist from Espírito Santo - Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=levyvix" alt="levyvix" /></a> </p>
+<blockquote>
+    <p><i>
+        A cheerful person who enjoys talking and discussing deep topics about human nature and who sincerely believes that we can make the world a better place through education and technology. 🗣️⚛✨🎓
+    </i></p>
+</blockquote>
+</div>
 
+ 
+  
 - 🔭 I’m currently working on **Data Science, Data Engineering, Data Analytics**
 
-- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, Cloud, Prefect, Airflow**
+- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, Cloud, Prefect**
 
 - 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning, Business Intelligence, Data Engineering**
 
@@ -18,6 +25,10 @@
 
 - 📫 How to reach me **levy.vix@gmail.com**
 
+- 🎓 For Data Science, my main technologies are: **Python and pandas** for data manipulation and analytics, **scikit-learn, xgboost and MLFlow** for machine learning development, monitoring and experiment tracking, **PyTorch, TensorFlow, fast.ai and OpenCV** for deep learning and computer vision.
+
+- For Data Engineering, my main technologies are: **Prefect** for workflow orchestration, **Docker** for containers, **PostgreSQL, MySQL and SQLIte** for relational databases, **Google Cloud Plataform** for cloud-based storage and computation.
+
 <a href="https://www.codewars.com/users/levyvix" target="blank"><img align="center" src="https://www.codewars.com/users/levyvix/badges/large" alt="levyvix" height="100" width="400" /></a>
 
 <h3 align="left">Connect with me:</h3>
@@ -27,96 +38,7 @@
 <a href="https://medium.com/@levyvix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@levyvix" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
-<ul>
-  <li>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <b> AWS </b>
-  </li>
-  <li>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <b> Docker </b>
-  </li>
-  <li>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-    </a>
-    <b> Flask </b>
-  </li>
-  <li>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <b> Git </b>
-  </li>
-  <li>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-    </a>
-    <b> Linux </b>
-  </li>
-  <li>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <b> MySQL </b>
-  </li>
-  <li>
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-    <b> OpenCV </b>
-  </li>
-  <li>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <b> pandas </b>
-  </li>
-  <li>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-    <b> PostgreSQL </b>
-  </li>
-  <li>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <b> Python </b>
-  </li>
-  <li>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    <b> PyTorch </b>
-  </li>
 
-  <li>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40">
-    </a>
-    <b> Scikit-learn </b>
-  </li>
-  
-  <li>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-    </a> 
-    <b> Seaborn </b>
-  </li>
-  <li>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-    <b> SQLite </b>
-  </li>
-  <li>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-    <b> TensorFlow </b>
-  </li>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=levyvix&show_icons=true&locale=en&layout=compact" alt="levyvix" /></p>
