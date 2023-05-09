@@ -27,7 +27,7 @@
 
 - 🎓 For Data Science, my main technologies are: **Python and pandas/polars** for data manipulation and analytics, **scikit-learn, xgboost and MLFlow** for machine learning development, monitoring and experiment tracking, **PyTorch, TensorFlow, fast.ai and OpenCV** for deep learning and computer vision.
 
-- ⚙ For Data Engineering, my main technologies are: **Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **GCP/AWS** for cloud-based storage and computation.
+- ⚙ For Data Engineering, my main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **GCP/AWS** for cloud-based storage and computation.
 
 - 📊 For Data Analytics, my main technologies are: **R** for statistical analysis, data visualization, and experiment design, **Python** for data manipulation, machine learning, and A/B testing, **PowerBI** for creating interactive and visually appealing dashboards that can be shared with stakeholders, **Looker** for exploring and analyzing data in a collaborative environment, creating and sharing reports, and building dashboards.
 
