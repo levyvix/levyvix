@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Levy Marques Nunes</h1>
-<h3 align="center">A passionate Data Scientist from Espírito Santo - Brazil</h3>
+<h3 align="center">A passionate Data Engineer from Espírito Santo - Brazil</h3>
 
 <blockquote>
     <p><i>
@@ -11,23 +11,19 @@
 
  
   
-- 🔭 I’m currently working on **Data Science, Data Engineering, Data Analytics**
+- 🌱 I’m currently learning **Spark, Cloud (AWS/Azure), Airflow/Prefect, Power BI**
 
-- 🌱 I’m currently learning **PyTorch, Keras, Scikit-learn, Power BI, Spark, Cloud, Airflow/Prefect**
-
-- 👯 I’m looking to collaborate on **Data Mining, Machine Learning, Deep Learning, Business Intelligence, Data Engineering**
+- 👯 I’m looking to collaborate on **Data Mining, Data Engineering,  Business Intelligence, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
 
 - 📝 I regularly write articles on [Medium (levyvix))](https://medium.com/@levyvix)
 
-- 💬 Ask me about **pandas, PyTorch, scikit-learn, Prefect**
-
 - 📫 How to reach me **levy.vix@gmail.com**
 
 - 🎓 For Data Science, my main technologies are: **Python and pandas/polars** for data manipulation and analytics, **scikit-learn, xgboost and MLFlow** for machine learning development, monitoring and experiment tracking, **PyTorch, TensorFlow, fast.ai and OpenCV** for deep learning and computer vision.
 
-- ⚙ For Data Engineering, my main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **GCP/Azure** for cloud-based storage and computation.
+- ⚙ For Data Engineering, my main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **AWS/Azure** for cloud-based storage and computation.
 
 - 📊 For Data Analytics, my main technologies are: **R** for statistical analysis, data visualization, and experiment design, **Python** for data manipulation, machine learning, and A/B testing, **PowerBI** for creating interactive and visually appealing dashboards that can be shared with stakeholders, **Looker** for exploring and analyzing data in a collaborative environment, creating and sharing reports, and building dashboards.
 
