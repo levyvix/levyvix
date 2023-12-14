@@ -11,9 +11,9 @@
 
  
   
-- 🌱 I’m currently learning **Spark, Cloud (AWS/Azure), Airflow/Prefect, Power BI**
+- 🌱 I’m currently learning **PySpark, Cloud (AWS/Azure), Airflow/Prefect, Power BI**
 
-- 👯 I’m looking to collaborate on **Data Mining, Data Engineering,  Business Intelligence, Machine Learning, Deep Learning**
+- 👯 I’m looking to collaborate on **Data Engineering, Data Mining,  Business Intelligence, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
 
