@@ -11,9 +11,9 @@
 
  
   
-- 🌱 I’m currently learning **PySpark, Cloud (AWS/Azure), Airflow/Prefect, Power BI**
+- 🌱 I’m currently learning **PySpark, Cloud (AWS/Azure/GCP), Airflow/Prefect**
 
-- 👯 I’m looking to collaborate on **Data Engineering, Data Mining,  Business Intelligence, Machine Learning, Deep Learning**
+- 👯 I’m looking to collaborate on **Data Engineering, Data Mining, Data Modelling, Data Integration, Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
 
@@ -21,11 +21,7 @@
 
 - 📫 How to reach me **levy.vix@gmail.com**
 
-- 🎓 For Data Science, my main technologies are: **Python and pandas/polars** for data manipulation and analytics, **scikit-learn, xgboost and MLFlow** for machine learning development, monitoring and experiment tracking, **PyTorch, TensorFlow, fast.ai and OpenCV** for deep learning and computer vision.
-
-- ⚙ For Data Engineering, my main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **AWS/Azure** for cloud-based storage and computation. And **PySpark** for data processing.
-
-- 📊 For Data Analytics, my main technologies are: **R** for statistical analysis, data visualization, and experiment design, **Python** for data manipulation, machine learning, and A/B testing, **PowerBI** for creating interactive and visually appealing dashboards that can be shared with stakeholders, **Looker** for exploring and analyzing data in a collaborative environment, creating and sharing reports, and building dashboards.
+- ⚙ My main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **AWS/Azure** for cloud-based storage and computation. And **PySpark** for data processing.
 
 <a href="https://www.codewars.com/users/levyvix" target="blank"><img align="center" src="https://www.codewars.com/users/levyvix/badges/large" alt="levyvix" height="100" width="400" /></a>
 
