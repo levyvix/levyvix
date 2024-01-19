@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Medium (levyvix))](https://medium.com/@levyvix)
 
-- 💻 I regularly practice at this website [StataScratch (levyvix)](https://platform.stratascratch.com/user/levyvix)
+- 💻 I regularly practice Spark at this website [StataScratch (levyvix)](https://platform.stratascratch.com/user/levyvix)
 
 - 📫 How to reach me **levy.vix@gmail.com**
 
