@@ -11,13 +11,15 @@
 
  
   
-- 🌱 I’m currently learning **PySpark, Cloud (AWS/Azure/GCP), Airflow/Prefect**
+- 🌱 I’m currently learning **PySpark, SQL, Cloud (AWS/Azure/GCP), Airflow/Prefect**
 
 - 👯 I’m looking to collaborate on **Data Engineering, Data Mining, Data Modelling, Data Integration, Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
 
 - 📝 I regularly write articles on [Medium (levyvix))](https://medium.com/@levyvix)
+
+- 💻 I regularly practice at this website [StataScratch (levyvix)](https://platform.stratascratch.com/user/levyvix)
 
 - 📫 How to reach me **levy.vix@gmail.com**
 
