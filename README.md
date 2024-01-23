@@ -15,15 +15,13 @@
 
 - 👯 I’m looking to collaborate on **Data Engineering, Data Mining, Data Modelling, Data Integration, Business Intelligence**
 
-- 👨‍💻 All of my projects are available at [GitHub (levyvix))](https://github.com/levyvix)
-
-- 📝 I regularly write articles on [Medium (levyvix))](https://medium.com/@levyvix)
-
-- 💻 I regularly practice Spark at this website [StataScratch (levyvix)](https://platform.stratascratch.com/user/levyvix)
-
 - 📫 How to reach me **levy.vix@gmail.com**
 
-- ⚙ My main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLite** for relational databases, **AWS/Azure** for cloud-based storage and computation. And **PySpark** for data processing.
+- ⚙ My main technologies are: **Airflow/Prefect/Mage** for workflow orchestration, **Docker/Docker-Compose** for containers, **PostgreSQL, MySQL and SQLServer** for relational databases, **AWS/Azure/GCP** for cloud-based storage and computation. And **Python/Spark** for data processing.
+
+## ⚡ Stack
+
+* **Data Engineering:** Airflow, dbt, Spark, Databricks, Delta, EMR, Glue, Athena, Redshift, Snowflake, Kinesis.
 
 <a href="https://www.codewars.com/users/levyvix" target="blank"><img align="center" src="https://www.codewars.com/users/levyvix/badges/large" alt="levyvix" height="100" width="400" /></a>
 
@@ -33,8 +31,5 @@
 <a href="https://instagram.com/levyvix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="levyvix" height="30" width="40" /></a>
 <a href="https://medium.com/@levyvix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@levyvix" height="30" width="40" /></a>
 </p>
-
-
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=levyvix&show_icons=true&locale=en&layout=compact" alt="levyvix" /></p>
