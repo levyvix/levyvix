@@ -15,30 +15,30 @@
 
 ### 🚀 Tecnologias & Ferramentas
 
-- **Orquestração:** Apache Airflow · Prefect · Mage
-- **Processamento:** Python · PySpark · Pandas
+- **Orquestração:** Apache Airflow · Prefect · Dagster
+- **Processamento:** SQL · Python · PySpark · Pandas/Polars · DuckDB
 - **Containers:** Docker · Docker Compose
-- **Bancos de Dados:** PostgreSQL · MySQL · SQL Server
-- **Cloud:** AWS · Azure · GCP
-- **ETL & Modelagem:** dbt · Spark SQL · Data Vault · Star Schema
+- **Bancos de Dados:** PostgreSQL · MySQL · SQLServer · MongoDB
+- **Cloud:** GCP · AWS · Azure
+- **ETL & Modelagem:** dbt · Spark SQL · Star Schema · Data Vault
 
 ---
 
 ### 💼 Interesses profissionais
 
-- Desenvolvimento e automação de pipelines de dados em larga escala
-- Integração de dados em ambientes cloud/híbridos
-- Governança, qualidade e versionamento de dados
-- Arquiteturas orientadas a dados (Data Lake, Lakehouse, Data Mesh)
+- Desenvolvimento e automação de pipelines de dados;
+- Integração de dados em ambientes cloud/híbridos;
+- Governança, qualidade e versionamento de dados;
+- Arquiteturas orientadas a dados (Data Lake, Lakehouse, Data Mesh).
 
 ---
 
 ### 🎯 Atualmente focado em:
 
-- Arquiteturas de dados modernas (Cloud + Lakehouse)
-- PySpark e workflows distribuídos
-- DataOps e monitoramento de pipelines
-- Práticas de engenharia de software aplicadas a dados
+- Arquiteturas de dados modernas (Cloud + Lakehouse);
+- PySpark e workflows distribuídos;
+- DataOps e monitoramento de pipelines;
+- Práticas de engenharia de software aplicadas a dados.
 
 ---
 
