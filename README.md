@@ -80,11 +80,3 @@
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
-
-## 🏆 GitHub Stats & Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=levyvix&theme=radical&no-frame=false&no-bg=false&margin-w=10)](https://github.com/levyvix)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=levyvix&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/levyvix)
-
----
