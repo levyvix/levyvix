@@ -91,4 +91,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levyvix&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/levyvix/levyvix/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
 ---
