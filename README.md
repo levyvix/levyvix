@@ -94,7 +94,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/levyvix/levyvix/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/levyvix/levyvix/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
