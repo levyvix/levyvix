@@ -83,12 +83,8 @@
 
 ## 🏆 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=levyvix&theme=radical&no-frame=false&no-bg=false&margin-w=10" alt="Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=levyvix&theme=radical&no-frame=false&no-bg=false&margin-w=10)](https://github.com/levyvix)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=levyvix&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=levyvix&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/levyvix)
 
 ---
