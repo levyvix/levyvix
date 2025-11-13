@@ -11,6 +11,10 @@
 📌 **Portfólio:** [levyvix.carrd.co](https://levyvix.carrd.co)  
 📧 **Contato:** <levy.vix@gmail.com>
 
+#### Get my resume
+
+[![Currículo em Português](https://img.shields.io/badge/Download-CV%20PT--BR-green?style=flat&logo=adobeacrobatreader)](https://github.com/levyvix/resume/blob/main/resume_portuguese.pdf?raw=true)
+
 ---
 
 ### 🚀 Tecnologias & Ferramentas
