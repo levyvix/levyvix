@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Levy Marques Nunes</h1>
-<h3 align="center">Engenheiro de Dados | Espírito Santo, Brasil</h3>
+<h1 align="center">Levy Marques Nunes</h1>
+<h3 align="center">Engenheiro de Dados e Engenheiro de Analytics</h3>
 
 <p align="center">
     Engenheiro de Dados com experiência em projetos de integração, modelagem e orquestração de dados em ambientes de larga escala.<br/>
@@ -8,8 +8,8 @@
 
 ---
 
-📌 **Portfólio:** [levyvix.carrd.co](https://levyvix.carrd.co)  
-📧 **Contato:** <levy.vix@gmail.com>
+📌 **Portfólio:** [Portfolio](https://levyvix.carrd.co)  
+📧 **Contato:** [LinkedIn](https://www.linkedin.com/in/levyvix/)
 
 #### Get my resume
 
